@@ -1,1 +1,2 @@
 Trying commit command usage
+Update and test batch commit
